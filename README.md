@@ -49,8 +49,8 @@ The model was trained on a labeled dataset of brain MRI scans using a Convolutio
 - **Validation Accuracy:** 72.06%
 
 ## Author
-Made by Rajnish Raj
-### Connect on [LinkedIn](https://www.linkedin.com/in/rajnish-raj-9139602a4/)
+Made by Nalam Deepika
+### Connect on [LinkedIn](https://www.linkedin.com/in/nalamdeepika)
 
 
 
